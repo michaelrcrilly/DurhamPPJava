@@ -23,7 +23,7 @@ public class BioGram
         for(int i=0; i<width; i++){
             for(int j=0; j<height; j++){   
                 int count=0;
-                CountExpr counter=new CountExpr(i,j);
+                MyCountExpr counter=new MyCountExpr(i,j);
                 while(count<6 && !counter.finished()){
                     count++;
                     counter.doOnce();

@@ -1,8 +1,10 @@
 #BlueJ class context
-comment0.params=startx\ starty
-comment0.target=CountExpr(int,\ int)
-comment1.params=
-comment1.target=void\ doOnce()
+comment0.target=CountExpr
+comment0.text=\r\n\ A\ simple\ class\ to\ apply\ a\ transformation\ iteratively\r\n\ \r\n\ @author\ Steven\ Bradley\r\n
+comment1.params=startx\ starty
+comment1.target=CountExpr(int,\ int)
 comment2.params=
-comment2.target=boolean\ finished()
-numComments=3
+comment2.target=void\ doOnce()
+comment3.params=
+comment3.target=boolean\ finished()
+numComments=4

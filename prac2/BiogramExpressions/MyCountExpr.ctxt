@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyCountExpr
+comment0.text=\r\n\ Level\ 1\ step\ 5\ -\ come\ up\ with\ your\ own\ CountExpr\ class\r\n\r\n\ @author\ Michael\ Crilly\r\n
+comment1.params=initialX\ initialY
+comment1.target=MyCountExpr(int,\ int)
+comment2.params=
+comment2.target=void\ doOnce()
+comment3.params=
+comment3.target=boolean\ finished()
+numComments=4

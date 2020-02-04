@@ -11,12 +11,12 @@ public class CountExpr
     public double y;
     
     public CountExpr(int startx, int starty){
-         x=startx/10.0;
-        y=starty/10.0;
+         x=startx/15.0;
+        y=starty/15.0;
     }
     
     public void doOnce(){
-        y=(x-25)*Math.tan(y/3) - (y-30)*Math.tan(x/3);
+        y=(x-25)*Math.tan(y/2) - (y-30)*Math.tan(x/2);
     }
     
     public boolean finished(){
